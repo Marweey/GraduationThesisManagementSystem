@@ -61,7 +61,7 @@
  		login(account,password,randStr);
 	}); 
  	function login(account,password,randStr) {
- 		$.post("/graduation/userController/login", { 
+ 		$.post("/graduation/userController/login", {
 			account: account,
 			password: password,
 			randStr: randStr
