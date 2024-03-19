@@ -1,8 +1,6 @@
-[全目录地址:https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 # 65.GraduationProjectThesisManagementSystem
 
-<p>群: 123300273(入群获取sql文件)</p>
-<p>QQ: 1095737364(加好友获取sql文件)</p>
+
 
 <p><h1 align="center">65.毕业设计（论文）管理系统</h1></p>
 
@@ -68,11 +66,4 @@
 ![](https://img2020.cnblogs.com/blog/588112/202201/588112-20220108094109454-2002654984.png)
 ![](https://img2020.cnblogs.com/blog/588112/202201/588112-20220108094117191-659358327.png)
 ![](https://img2020.cnblogs.com/blog/588112/202201/588112-20220108094123664-660985853.png)
-
-
-## License
-
-##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
-##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-# [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 
